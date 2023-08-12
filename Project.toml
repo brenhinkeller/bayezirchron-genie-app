@@ -1,0 +1,7 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Chron = "68885b1f-77b5-52a7-b2e7-6a8014c56b98"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+GenieFramework = "a59fdf5c-6bf0-4f5d-949c-a137c9e2f353"
+Isoplot = "5adc30d5-9ddf-423c-bb15-ece697bec3ab"
